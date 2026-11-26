@@ -1,8 +1,8 @@
 # One Line of Earned Pride
 
-[![Bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
-[![Rank](https://img.shields.io/badge/make.fun-rank-lightgrey)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
-[![Reward](https://img.shields.io/badge/make.fun-reward%20%245-green)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557)
+[![make.fun · u-mang-one-line-of-earned-pride-a0138557](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
+[![rank](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/riefz86/makefun-u-mang-one-line-of-earned-pride-a0138557/rank.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
+[![reward](https://make.fun/badge/u-mang-one-line-of-earned-pride-a0138557/riefz86/makefun-u-mang-one-line-of-earned-pride-a0138557/reward.svg)](https://make.fun/bounty/u-mang-one-line-of-earned-pride-a0138557?utm_source=github&utm_medium=readme&utm_campaign=u-mang-one-line-of-earned-pride-a0138557)
 
 One line, 163 characters, for make.fun's "One Line of Earned Pride" bounty ($5 in USDC): a quiet, earned moment of pride for someone in a scene.
 
